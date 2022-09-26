@@ -1,0 +1,15 @@
+textarea{
+  resize: none;
+  width: 100%;
+}
+h3{
+  background-color: #D8D8D8;
+  margin-bottom: 0;
+}
+.icons{
+  background-color: #7895B2;
+}
+.button:active,
+.active {
+  box-shadow: none;
+}
